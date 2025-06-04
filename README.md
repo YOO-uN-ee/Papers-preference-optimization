@@ -23,19 +23,22 @@
     - [Paper](https://aclanthology.org/2024.acl-long.662.pdf) | [HuggingFace](https://huggingface.co/docs/trl/en/rloo_trainer)
 
 - GRPO ()
+    - *i.e.*, **GRPO**
     - [Paper]() | [GitHub]() | [Webpage]()
 
 - REINFORCE++ ()
     - [Paper]() | [GitHub]() | [Webpage]()
 
-- DVPO ()
-    - [Paper]() | [GitHub]() | [Webpage]()
+- Lean and Mean: Decoupled Value Policy Optimization with Global Value Guidance ()
+    - *i.e.*, **DVPO**
+    - [Paper](https://arxiv.org/pdf/2502.16944) | [GitHub]() | [Webpage]()
 
-- PRIME ()
-    - [Paper]() | [GitHub]() | [Webpage]()
+- Process Reinforcement through Implicit Rewards ()
+    - *i.e.*, **PRIME**
+    - [Paper](https://arxiv.org/pdf/2502.01456) | [GitHub](https://github.com/PRIME-RL/PRIME) | [Webpage]()
 
-- SPPD ()
-    - [Paper]() | [GitHub]() | [Webpage]()
+- **SPPD**: Self-training with Process Preference Learning Using Dynamic Value Margin ()
+    - [Paper](https://arxiv.org/pdf/2502.13516) | [GitHub]() | [Webpage]()
 
 - UGDA ()
     - [Paper]() | [GitHub]() | [Webpage]()
@@ -137,7 +140,8 @@
     - *i.e.*, **Reinforcement Learning with AI Feedback**
     - [Paper](https://arxiv.org/pdf/2212.08073) | [GitHub]() | [Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback#Reinforcement_learning_from_AI_feedback)
 
-
+- Nash Learning from Human Feedback ()
+    - [Paper](https://proceedings.mlr.press/v235/munos24a.html) | [GitHub]() | [Webpage]()
 
 
 
